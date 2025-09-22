@@ -30,7 +30,7 @@ By the end of year, student will:
 | **11**   | Arrays (Optional) | Store lists of values      | `create array`, `add value`                    | `python<br>enemies = [1, 2, 3]<br>enemies.append(4)`                                                                                                                                | Manage lists of objects                     |
 | **12**   | Text Functions    | Show messages              | `show string`, `splash`, `join`                | `python<br>display.scroll("Score: " + str(score))`                                                                                                                                  | Show custom messages to player              |
 
-## **Key COncepts**
+## **Key Concepts**
 
 - Understand event driven programming
 - Create custom blocks in MakeCode to keep code organized
