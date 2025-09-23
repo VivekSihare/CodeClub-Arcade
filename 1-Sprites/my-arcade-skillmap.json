@@ -1,0 +1,93 @@
+{
+  "name": "Arcade App: Beginner Path",
+  "description": "Beginner path to build, test and share a MakeCode Arcade game.",
+  "imageUrl": "",
+  "paths": [
+    {
+      "id": "setup",
+      "name": "Setup & First Run",
+      "activities": [
+        {
+          "id": "setup-1",
+          "name": "Open MakeCode Arcade",
+          "type": "link",
+          "url": "https://arcade.makecode.com/",
+          "description": "Explore the editor, simulator, and create a new project."
+        },
+        {
+          "id": "setup-2",
+          "name": "Create First Project",
+          "type": "tutorial",
+          "url": "https://arcade.makecode.com/--skillmap#beginner",
+          "description": "Create and save a project named 'FirstArcade'."
+        }
+      ]
+    },
+    {
+      "id": "basics",
+      "name": "Blocks & Movement",
+      "activities": [
+        {
+          "id": "basics-1",
+          "name": "Create Player Sprite",
+          "type": "tutorial",
+          "url": "https://arcade.makecode.com/--skillmap#sprites",
+          "description": "Design a player sprite using the sprite editor."
+        },
+        {
+          "id": "basics-2",
+          "name": "Controller Movement",
+          "type": "tutorial",
+          "url": "https://arcade.makecode.com/--skillmap#controls",
+          "description": "Add controller movement blocks and test in the simulator."
+        }
+      ]
+    },
+    {
+      "id": "tilemap",
+      "name": "Tilemaps & Levels",
+      "activities": [
+        {
+          "id": "tilemap-1",
+          "name": "Create Tilemap",
+          "type": "tutorial",
+          "url": "https://arcade.makecode.com/--skillmap#tilemaps",
+          "description": "Draw a level using tilemap editor."
+        }
+      ]
+    },
+    {
+      "id": "mechanics",
+      "name": "Enemies & Collisions",
+      "activities": [
+        {
+          "id": "mech-1",
+          "name": "Add Enemy AI",
+          "type": "tutorial",
+          "url": "https://arcade.makecode.com/--skillmap#ai",
+          "description": "Make an enemy that patrols and interacts with player."
+        }
+      ]
+    },
+    {
+      "id": "final",
+      "name": "Polish & Share",
+      "activities": [
+        {
+          "id": "final-1",
+          "name": "Add Score, Lives, and Sound",
+          "type": "tutorial",
+          "url": "https://arcade.makecode.com/--skillmap#audio",
+          "description": "Add scoring, lives, and SFX."
+        },
+        {
+          "id": "final-2",
+          "name": "Share Your Game",
+          "type": "link",
+          "url": "https://arcade.makecode.com/",
+          "description": "Export and share the project link or GIF."
+        }
+      ]
+    }
+  ]
+}
