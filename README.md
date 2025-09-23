@@ -37,7 +37,7 @@ By the end of year, student will:
 - Building testing and improving projects step-by-step
 
 ## **Resources**
-- [make code for Micro:bit] (https://arcade.makecode.com/)
+- [make code for Micro:bit](https://arcade.makecode.com/)
 
 - --
 This roadmap is designed to be flexible - adjust pace and content based on students progress and interest.
